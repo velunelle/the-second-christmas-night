@@ -1,0 +1,1611 @@
+[
+  {
+    "version": "previous",
+    "source_commit": "c03ca68003918ec103e5e47374b4cc1e7801a3a1",
+    "entry": "versions/previous/dist/index.html",
+    "files": [
+      {
+        "path": "dist/assets/audio/church-bells.wav",
+        "size": 441044,
+        "sha256": "796a0d8975ce9db3eb4e6d8ce438f6dbbd4ad4a1a8a6a18de4521face6eeb28a"
+      },
+      {
+        "path": "dist/assets/cat_statue.glb",
+        "size": 201668,
+        "sha256": "8e6546d5d4f0ee48aaf39231895e50e9b8f2a9fa6a2fb07b9b43a8ae3c2071a0"
+      },
+      {
+        "path": "dist/assets/ez-tree/bark-Color.jpg",
+        "size": 1261332,
+        "sha256": "9b0a65088b63ce2d5d2e5b7c33275dbc928e6e6674270f07ccc635d9eb742e73"
+      },
+      {
+        "path": "dist/assets/ez-tree/bark-NormalGL.jpg",
+        "size": 2568702,
+        "sha256": "22dbd485bc158140decf00e53a73390af74566990a29ad866ce18a396dc0345f"
+      },
+      {
+        "path": "dist/assets/ez-tree/bark-Roughness.jpg",
+        "size": 656514,
+        "sha256": "57f63ad973b506ed16a84eaa0e1c386aafb7f79100d748a59aad7d27074ef284"
+      },
+      {
+        "path": "dist/assets/ez-tree/pine.png",
+        "size": 303684,
+        "sha256": "88be36a2387554ac4b7c7d1549eae454a37ad896e8e33a7d6ae5956bd169ab08"
+      },
+      {
+        "path": "dist/assets/icons/material/bedtime.svg",
+        "size": 293,
+        "sha256": "45086b5410c26630a0cae800e6d9e9fe531c8cdfba998d231a7acb97e6b770a3"
+      },
+      {
+        "path": "dist/assets/icons/material/cloud.svg",
+        "size": 253,
+        "sha256": "887a2c492c60d833a4f8b5acde60ad76d528d51e8bf542c1ee52ed4f2958b92f"
+      },
+      {
+        "path": "dist/assets/icons/material/coffee.svg",
+        "size": 429,
+        "sha256": "6cd0182d3cc6d3be05205e9d6e852f8814fa8ee6c89acc873ed670b3e31dfac0"
+      },
+      {
+        "path": "dist/assets/icons/material/emoji_food_beverage.svg",
+        "size": 601,
+        "sha256": "ee8b35e224b90f32ce54bf17e09a190a6599107a283efb1d2273f1bfbde71435"
+      },
+      {
+        "path": "dist/assets/icons/material/icecream.svg",
+        "size": 377,
+        "sha256": "6bd6cd615443bdc994af9845922c3b1915c55b87608f4a48ac1c001e52299884"
+      },
+      {
+        "path": "dist/assets/icons/noto/OFL.txt",
+        "size": 4330,
+        "sha256": "500bb1ccf43df7bbb522112f9133a52b16e1c35e809632f5d8609b179152de5b"
+      },
+      {
+        "path": "dist/assets/icons/noto/bagel.svg",
+        "size": 5517,
+        "sha256": "798ec7b7c6273e5f40190a2cd40b26f719c5f7d0014867dcc29e1bbce512262b"
+      },
+      {
+        "path": "dist/assets/icons/noto/baguette.svg",
+        "size": 1519,
+        "sha256": "1a82b40e93489961dcfd79bb689c3d64493d1e2d9f2ec96c049e07c1b2c7f31c"
+      },
+      {
+        "path": "dist/assets/icons/noto/bear.svg",
+        "size": 2053,
+        "sha256": "c7d19640d18669d2f57848eea32d39b9319b9bcbb0e5da8ca23dd0f86e765f72"
+      },
+      {
+        "path": "dist/assets/icons/noto/blossom.svg",
+        "size": 3009,
+        "sha256": "6b5ce4eb29267007b994fcb32ce9a84930a56fedb192a0817547a588cddcd448"
+      },
+      {
+        "path": "dist/assets/icons/noto/bread.svg",
+        "size": 1098,
+        "sha256": "eecc6b96eaaebece5b5df6b2f2e5ddf614102dc598608ba31ffa610423b21ebe"
+      },
+      {
+        "path": "dist/assets/icons/noto/butter.svg",
+        "size": 2526,
+        "sha256": "4cbd52770afe48a398342a04293570180cf87e9bdff39c8b877d608f95fd450c"
+      },
+      {
+        "path": "dist/assets/icons/noto/cat.svg",
+        "size": 3659,
+        "sha256": "2a87eb34edb699c81e197ca2f3af7f855dbbe959a4fdddc22a97e31293f360b3"
+      },
+      {
+        "path": "dist/assets/icons/noto/coffee.svg",
+        "size": 3035,
+        "sha256": "c81b0e1e5484419cb08251ea2d8c480688757ed08e2d20d3b540a6c12834582d"
+      },
+      {
+        "path": "dist/assets/icons/noto/cookie.svg",
+        "size": 3918,
+        "sha256": "7fbb8346e22c07556257e0670e3da41ee87f2f4ac0607ce0247886b9b898d8b7"
+      },
+      {
+        "path": "dist/assets/icons/noto/croissant.svg",
+        "size": 3234,
+        "sha256": "a2fc3b1416c715bd602486e32356d37e1687218e5f1b857b00c8e4e4bf430b6f"
+      },
+      {
+        "path": "dist/assets/icons/noto/dog.svg",
+        "size": 2593,
+        "sha256": "67d52028efacb6c225943a9d5b9a5aa978d112facc13cb28ca91eec35c39fec9"
+      },
+      {
+        "path": "dist/assets/icons/noto/doughnut.svg",
+        "size": 2482,
+        "sha256": "9d26a2e863599e97509c653de4766190a0b833c461b08b762c8db0dc602e130b"
+      },
+      {
+        "path": "dist/assets/icons/noto/flatbread.svg",
+        "size": 1384,
+        "sha256": "ab84f0cf8507c4838409d4f2390ce297476ccb42460761069f6f03f10d5eeb0e"
+      },
+      {
+        "path": "dist/assets/icons/noto/fox.svg",
+        "size": 4211,
+        "sha256": "70e0189ce631f8bf1ace43db66e90db31fee7c6607b47913f30410082e4d7a70"
+      },
+      {
+        "path": "dist/assets/icons/noto/frog.svg",
+        "size": 2938,
+        "sha256": "94009d5829edf0094cd9a8e45d155ef2c37300b2ecf6889375d3f3d407a76305"
+      },
+      {
+        "path": "dist/assets/icons/noto/hamster.svg",
+        "size": 4232,
+        "sha256": "fab57bb848312494946ef4e7707919d3c70091ca7a5e2eec34678939ef138ad1"
+      },
+      {
+        "path": "dist/assets/icons/noto/honey.svg",
+        "size": 2417,
+        "sha256": "011191c8dfbd3ba05eb7706a6f020fce72dca8a88084879ce063c98c00e27109"
+      },
+      {
+        "path": "dist/assets/icons/noto/koala.svg",
+        "size": 3655,
+        "sha256": "52199335d310122a2f56825d517db0f0534e9bbd8af9f33380c07f1bc7b9f5eb"
+      },
+      {
+        "path": "dist/assets/icons/noto/milk.svg",
+        "size": 1755,
+        "sha256": "df8ffb62b019a28fbec07830e2dac19b80a046f17b35c929e20e98bc28437308"
+      },
+      {
+        "path": "dist/assets/icons/noto/mouse.svg",
+        "size": 3378,
+        "sha256": "9b50e1c9169f993db15ad7b661e19107beb56b3dfea4a495f822367aeecea833"
+      },
+      {
+        "path": "dist/assets/icons/noto/pancakes.svg",
+        "size": 4392,
+        "sha256": "8244e14a1c518f3b429f05c0594ad5c406b3f03085caef61de7e9f7a6b1ae67a"
+      },
+      {
+        "path": "dist/assets/icons/noto/panda.svg",
+        "size": 2996,
+        "sha256": "6af99b0ce83859cc8b304a15e819ce085d3aa49607c0a8a5a640725db86a3a53"
+      },
+      {
+        "path": "dist/assets/icons/noto/paws.svg",
+        "size": 2278,
+        "sha256": "6cd3e069cd0aed5967c0bfc6740be1545206ba38254b8b4e6a0cca78eb71c1ef"
+      },
+      {
+        "path": "dist/assets/icons/noto/penguin.svg",
+        "size": 2910,
+        "sha256": "0b580e8788068e6084d39b2b2a5222e7d24b030badcd683929d4766b96e3a0b5"
+      },
+      {
+        "path": "dist/assets/icons/noto/pie.svg",
+        "size": 2757,
+        "sha256": "95b61ebf9d7b6f9b63e942837d380a20dbfd2557b46caad2854534fc3b34702d"
+      },
+      {
+        "path": "dist/assets/icons/noto/pig.svg",
+        "size": 3379,
+        "sha256": "2bea56fc2327c72b251dfe642a6fa99e861a7f76bbad7634b8d8cb48a7d06420"
+      },
+      {
+        "path": "dist/assets/icons/noto/pretzel.svg",
+        "size": 5667,
+        "sha256": "1b731c77ef0057c469938c4318af6b3bbc6771a11b6e5136e187c5c60f8bc08a"
+      },
+      {
+        "path": "dist/assets/icons/noto/rabbit.svg",
+        "size": 4199,
+        "sha256": "191a16ac1d2251d18b0d0035696db812057748d1c947254273037f976df7d0a5"
+      },
+      {
+        "path": "dist/assets/icons/noto/ramen.svg",
+        "size": 3413,
+        "sha256": "41bffdc0f3adc562b8a7f639446e4f29d463bfed08cac5362ca43d07e363b515"
+      },
+      {
+        "path": "dist/assets/icons/noto/sandwich.svg",
+        "size": 3503,
+        "sha256": "59601186ae66d6fb72aa9f1487336eda8ce56117c52032abbf9f8deabc2bde0c"
+      },
+      {
+        "path": "dist/assets/icons/noto/sunset.svg",
+        "size": 2258,
+        "sha256": "4e1a882be0c9908be56ddd150901998c305fa8afa1050fcd744d59adcbaa7c1e"
+      },
+      {
+        "path": "dist/assets/icons/noto/tiger.svg",
+        "size": 6308,
+        "sha256": "d7ae28ed32599f8ae52c0f546b780b474d05cdb3359fc7da7e66a34bee16a4ff"
+      },
+      {
+        "path": "dist/assets/icons/noto/waffle.svg",
+        "size": 1749,
+        "sha256": "ba92245a32e0efe4aee8aeee2464dac0a604323404f42675e50b4e19416aa775"
+      },
+      {
+        "path": "dist/assets/icons/noto/wheat.svg",
+        "size": 4440,
+        "sha256": "310c8ed4705a68e2b8b45d893d3a613ac6164c2a6c0b60ad5fddf4e5a417febf"
+      },
+      {
+        "path": "dist/assets/models/city-car.glb",
+        "size": 11778688,
+        "sha256": "c272098089d78c5cd9fd9f24ff50ee8acf8d932c55f2d55fc10adb6c8998966b"
+      },
+      {
+        "path": "dist/blender/build_cat_statue.py",
+        "size": 4999,
+        "sha256": "0b4632363e61b29c48d2295a6f2026e06f356f7beaec8647f711a2357c8015b8"
+      },
+      {
+        "path": "dist/blender/prepare_model.py",
+        "size": 4047,
+        "sha256": "c888d8d6fbc8f2413852ab3dc5bb1990884c54a27337782a725f641d24650409"
+      },
+      {
+        "path": "dist/city.css",
+        "size": 11915,
+        "sha256": "7f1be9798045c453974d0bc187c38b82934789909d94105397dc3a36b12bea14"
+      },
+      {
+        "path": "dist/content/labels.json",
+        "size": 22148,
+        "sha256": "5346728a99e6e2f28b045214c560c2710a7b6d87735612410261e36d53bfeab4"
+      },
+      {
+        "path": "dist/index.html",
+        "size": 8785,
+        "sha256": "cda19c27588803a0e3b6f5bc7cfe549a5511da88a96ec068ab884ff7311bc1bf"
+      },
+      {
+        "path": "dist/licenses/bell-synthesis.txt",
+        "size": 1073,
+        "sha256": "29f39f7f41c687dbf17dc690a52d9bb60ac930b9a623a58204d5a4165cfa136f"
+      },
+      {
+        "path": "dist/licenses/between-us.txt",
+        "size": 1263,
+        "sha256": "b98d627ab26c453a2abcf34203f76bbbd96da8b1804ef61096f3e3202125d089"
+      },
+      {
+        "path": "dist/licenses/church-bells-source.txt",
+        "size": 284523,
+        "sha256": "f6aec3a3283a2efdcbb1feff334adad7ab17c097bdec0cbb4eebdb9e16886074"
+      },
+      {
+        "path": "dist/licenses/city-car.txt",
+        "size": 619,
+        "sha256": "6c29b11df9346e0dc4357b19142c9d110ced35ebeddba8fe8f48029017d401a6"
+      },
+      {
+        "path": "dist/licenses/ez-tree-textures.txt",
+        "size": 242,
+        "sha256": "fdcedec3a94e224605880c592bc63b0f5adf785b39c367f91343b1ec05d7b0d0"
+      },
+      {
+        "path": "dist/licenses/ez-tree.txt",
+        "size": 1073,
+        "sha256": "20e4afadfb10c67952b3d73cd2982d21d165ab4ae82b0dd9e4d6f2166ee349b6"
+      },
+      {
+        "path": "dist/licenses/fireworks.txt",
+        "size": 1066,
+        "sha256": "4543a50002d54e1d73125d4cfea3bd30eff93b0bb5050431d9d0bc90d4efa5f8"
+      },
+      {
+        "path": "dist/licenses/night-rain-city.txt",
+        "size": 1065,
+        "sha256": "3f4d15ea81e1a6865dbeb2376c4620a73fe346aa5299239016b3bfe533b5ae0a"
+      },
+      {
+        "path": "dist/opening/crack1.png",
+        "size": 873020,
+        "sha256": "c91e9d4ae60d1ad8f5677adc6540fe51a3c0bd8639c3237aa0f7ac80434b596c"
+      },
+      {
+        "path": "dist/opening/crack2.png",
+        "size": 799203,
+        "sha256": "d8c098cb4703c75134c2dda992cc1d12f252662ab5e9f6bb9aa3b59b717371d4"
+      },
+      {
+        "path": "dist/opening/flowers.svg",
+        "size": 7271,
+        "sha256": "346a804e7bf5211c631e1cca93e41e13f19b7aad4ea075a20b4a5a0c6c87ca87"
+      },
+      {
+        "path": "dist/opening/flowers_fill.svg",
+        "size": 7271,
+        "sha256": "346a804e7bf5211c631e1cca93e41e13f19b7aad4ea075a20b4a5a0c6c87ca87"
+      },
+      {
+        "path": "dist/opening/index.html",
+        "size": 6026,
+        "sha256": "55e5cd96e382acaa5ab65e8874ec40cb65991da202a392c86e20c978b724f083"
+      },
+      {
+        "path": "dist/opening/opening.js",
+        "size": 26466,
+        "sha256": "ff6e874dd3564ee9c32202cf5e978d3a37b4ea14c37eb4d3b1216d32e7af4d84"
+      },
+      {
+        "path": "dist/opening/snow.js",
+        "size": 1392,
+        "sha256": "e8182925269e020b29030e098a032f42627d85682d3e783782328530d8c1b099"
+      },
+      {
+        "path": "dist/serve.py",
+        "size": 2282,
+        "sha256": "03d5ed4ec2992ea11499c9f0eaa1bf4b618c483f830b59298e3c95c184030697"
+      },
+      {
+        "path": "dist/src/cinematics.js",
+        "size": 2536,
+        "sha256": "a6769f0e1d6824052a1b23bbed9803edaae65863d84dffc0345539a9fd7578c9"
+      },
+      {
+        "path": "dist/src/content.js",
+        "size": 3047,
+        "sha256": "9aa330585ba8439909a87a164830a4910539b49c6cc232e065f87b9751fe4306"
+      },
+      {
+        "path": "dist/src/copy-editor.js",
+        "size": 3592,
+        "sha256": "a678e7236a75b9dd06be0505ac5fc46efd11967e1b1faf763fb968b271e3ad82"
+      },
+      {
+        "path": "dist/src/core/audio.js",
+        "size": 11211,
+        "sha256": "9a9a1361b25a70134af5506b9bffce1a7e4f174221b01bcb8c2fac40e02d2863"
+      },
+      {
+        "path": "dist/src/core/city-audio.js",
+        "size": 4448,
+        "sha256": "24f69801e5aa1f0a87e773f919e9e677cf65aa19902617719694d9c7ec3ec91c"
+      },
+      {
+        "path": "dist/src/core/constants.js",
+        "size": 605,
+        "sha256": "c4e3ff071952e468d94e28949f67c62b36cd270a31ae3d245255292de53b4cd3"
+      },
+      {
+        "path": "dist/src/core/festival-audio.js",
+        "size": 2108,
+        "sha256": "ad161a5101e7e7d3e0617b6a9bd94e057cfd62ee69e0d267b0daa7276495cb76"
+      },
+      {
+        "path": "dist/src/core/fireworks.js",
+        "size": 27884,
+        "sha256": "48acf48816ad2c20b0370e0ee31dabf8bc4af5c5e6c2a8fdce616c1614af2d1e"
+      },
+      {
+        "path": "dist/src/core/goods.js",
+        "size": 13730,
+        "sha256": "ebd18820d551235d8c9c21d2edf776f1098a2d937d8a34e202114b6105d9c5c3"
+      },
+      {
+        "path": "dist/src/core/music.js",
+        "size": 30014,
+        "sha256": "59e363292ca4df52015172a05e4a8a19f8b26da657ee7aaa4a7ab47ee6fc8582"
+      },
+      {
+        "path": "dist/src/core/people.js",
+        "size": 5419,
+        "sha256": "b1dde96e3b6785bcfccafd11118ab3d88bf8706f3cc959d093e4913e2be5f3ab"
+      },
+      {
+        "path": "dist/src/core/post.js",
+        "size": 3242,
+        "sha256": "3f5fe6b2a82d643ff497d4b70eda61f223322f68f30912b99d8bbaf54e02cb98"
+      },
+      {
+        "path": "dist/src/core/rain.js",
+        "size": 11928,
+        "sha256": "5c2baa090eea357d63dc7f0bcd44c55af56cf1a4e61b8a1229d06c1debd00394"
+      },
+      {
+        "path": "dist/src/core/rand.js",
+        "size": 699,
+        "sha256": "032f8f12b8ca4b2c091d170b462c9550e389f0eb9cd908ad3b49777bf2fcc431"
+      },
+      {
+        "path": "dist/src/core/screens.js",
+        "size": 25578,
+        "sha256": "8399502be1131b3702cc5d416485e04dbdb1a0006f279e04cfea5caadf4d12d7"
+      },
+      {
+        "path": "dist/src/core/sky.js",
+        "size": 4912,
+        "sha256": "e0bc887398808d6c7a67e60e9afa42b1c171806ff88358fa27573747f58ffaf2"
+      },
+      {
+        "path": "dist/src/core/snow.js",
+        "size": 11518,
+        "sha256": "e865bccb4ce7b309a4b59ef4c63086e1a05e314c6ea400e78c9f13c69a37b8e8"
+      },
+      {
+        "path": "dist/src/core/toon.js",
+        "size": 40372,
+        "sha256": "20078cbb2eab19d2389bea24f70418097d58b123b42f7e3717fce37e47551d7b"
+      },
+      {
+        "path": "dist/src/core/traffic.js",
+        "size": 3679,
+        "sha256": "948d53023b4c9b7c75b23c50a9e7ea5bc9fd3e6cfe87b7fe5686a3429a5fe13a"
+      },
+      {
+        "path": "dist/src/core/trees.js",
+        "size": 7940,
+        "sha256": "9c07643926b433db381de346d71953d68942891b3e153e21c933414ada9604f7"
+      },
+      {
+        "path": "dist/src/core/tuning.js",
+        "size": 7575,
+        "sha256": "8fbe19b95fc1a62aeef2e2f728a465d3f8295559b9fa3cc7de7832dd45371795"
+      },
+      {
+        "path": "dist/src/core/umbrella.js",
+        "size": 677,
+        "sha256": "8ff89f3c13227dd6299aaa2d6532062c921ab3d614a4d02d406c75c6d75dc7c9"
+      },
+      {
+        "path": "dist/src/core/vfx.js",
+        "size": 5381,
+        "sha256": "181884c45613778c63e3f714e0b6f42a21e3d440e8c5fc8b326aadd90252f95b"
+      },
+      {
+        "path": "dist/src/core/walker.js",
+        "size": 14695,
+        "sha256": "701d8bc5fa211d7fa5d57cb260dd95d3582c084e647998be160fd3da125e719e"
+      },
+      {
+        "path": "dist/src/core/weather.js",
+        "size": 1043,
+        "sha256": "1c92b59cb487f794292b0fe5fc835a24fdc66acb413077b7afb1dd56efa6fcc5"
+      },
+      {
+        "path": "dist/src/detailed-assets.js",
+        "size": 5223,
+        "sha256": "77fdd9b94e6bcecdb2f9fa36d167a6e6b14f28ee99baacbdd648bec66c8b8d5d"
+      },
+      {
+        "path": "dist/src/district.js",
+        "size": 3029,
+        "sha256": "ad7ff3f647618ad701699454b33d1148ad3637e343dbaf703d8e044a9fcd34f1"
+      },
+      {
+        "path": "dist/src/experience.js",
+        "size": 10766,
+        "sha256": "b2097da93cc688dac58c00a16628cb0ec5c80d4759c5393f43ae13131cefbbe5"
+      },
+      {
+        "path": "dist/src/kit/atlas.js",
+        "size": 6701,
+        "sha256": "db94d31957b23f0f6ec0072f36b2420f176ec850a328ba759845f022c647a123"
+      },
+      {
+        "path": "dist/src/kit/buildings.js",
+        "size": 34710,
+        "sha256": "4eb9deb9e38716eb34691e7d85dee9c777bae807a4f075d9a775ae34ffc70a8a"
+      },
+      {
+        "path": "dist/src/kit/cases.js",
+        "size": 136900,
+        "sha256": "f8e2907e082de6ef7f94caa0294aa9604356f4117d0fc81f77b16072a0836892"
+      },
+      {
+        "path": "dist/src/kit/catalog.js",
+        "size": 3619,
+        "sha256": "5c6d83659b235328fd4f1d887b71656ec815957949bb340814b9b6ecbcc513b0"
+      },
+      {
+        "path": "dist/src/kit/christmas.js",
+        "size": 4790,
+        "sha256": "773d5921e2a156e3730d5400461be913103d59bccea33b9ff8c709934031e0a9"
+      },
+      {
+        "path": "dist/src/kit/city.js",
+        "size": 9247,
+        "sha256": "5c97c96ee19581711d1095aea7764393658377f6591a67284bfbfb35cb5c09b5"
+      },
+      {
+        "path": "dist/src/kit/fountain.js",
+        "size": 1217,
+        "sha256": "6ea5f0f31e9a63a44f9b573bd04b08bf35073f875072893f17dad04ac82aa212"
+      },
+      {
+        "path": "dist/src/kit/geometry.js",
+        "size": 7078,
+        "sha256": "5f53afe3e0b384b6a630a7aa703f2d4044d5066635adc33f4fdaf0293d138354"
+      },
+      {
+        "path": "dist/src/kit/holograms.js",
+        "size": 11562,
+        "sha256": "cf9c750577b5ea57275a600f9a380be42c9ef935de631115a0c3246b39c5d4b8"
+      },
+      {
+        "path": "dist/src/kit/holomodel.js",
+        "size": 6518,
+        "sha256": "b868836da18fce060b9e368cb8774f9169b93055f0afe5c256017cb28cc9e8ff"
+      },
+      {
+        "path": "dist/src/kit/icons.js",
+        "size": 3523,
+        "sha256": "7df9dbacd0e695b7f4f799f6eecc69d1df512a1fc89f8fdd447b790bcf914ed3"
+      },
+      {
+        "path": "dist/src/kit/infoBoard.js",
+        "size": 6930,
+        "sha256": "d4e5c2770f2685633bdb3f226f53daec2f52dc9ed95f8c4a374ffa2d8298fc79"
+      },
+      {
+        "path": "dist/src/kit/interiors.js",
+        "size": 37824,
+        "sha256": "af0fb7038c65dc874235a6a3086cb7916a3da6b7f9a4f9edaf438ba6b6ff813a"
+      },
+      {
+        "path": "dist/src/kit/layouts.js",
+        "size": 5423,
+        "sha256": "3d454eccab3912fe5f9cda28723951ca31f512711e70209812da822bc241a0a3"
+      },
+      {
+        "path": "dist/src/kit/scenes.js",
+        "size": 21531,
+        "sha256": "809c6f7b2afe2e96fcb819c9a6e1621e2a8c6dbcfe0418da25019f702bd06178"
+      },
+      {
+        "path": "dist/src/kit/sculptures.js",
+        "size": 8944,
+        "sha256": "0c5919dcf0535624e2a2b624845edabf80e3d67b9432446a3ca1d7c328cb71a1"
+      },
+      {
+        "path": "dist/src/kit/shops.js",
+        "size": 26731,
+        "sha256": "8bbf1bf707a8960c37240fddb9b795811ea3dd3b6832e2f719d220c3f5aa9296"
+      },
+      {
+        "path": "dist/src/kit/signs.js",
+        "size": 73210,
+        "sha256": "0dd37fe73760c4620d4563851532782ed54b7a51e42823cd3da237d0abfd5a54"
+      },
+      {
+        "path": "dist/src/kit/street.js",
+        "size": 12658,
+        "sha256": "17a7959d049ad5738a5c3db738a017636417aea74bec96d7b7cb1ba7e574ae83"
+      },
+      {
+        "path": "dist/src/kit/streetlife.js",
+        "size": 9376,
+        "sha256": "0fa050b90e8b3b55d91cfb72ce99003e70afd5190eca82427a26c559bdebe1e8"
+      },
+      {
+        "path": "dist/src/kit/terrace.js",
+        "size": 8866,
+        "sha256": "9ef669f62c41f58ea20c7583912df67c86a1855dc1ad7b03a9f2de186f7d5ba0"
+      },
+      {
+        "path": "dist/src/kit/underground.js",
+        "size": 25290,
+        "sha256": "05e1d0c11d019e260e8f57ee562cd3cd245a1e3ff2c09c4f92a2d78472dccd46"
+      },
+      {
+        "path": "dist/src/kit/world.js",
+        "size": 23098,
+        "sha256": "584d09ae0ae8dfab1c9c3aa3ff4e294ac2b67722c6500ddb12a9eaf7e704ef51"
+      },
+      {
+        "path": "dist/src/main.js",
+        "size": 26834,
+        "sha256": "a631cd19dd673e62e8b761bd53978d006d0a80daa762aab95c0f1e61a241527b"
+      },
+      {
+        "path": "dist/src/song-ui.js",
+        "size": 3717,
+        "sha256": "8624e1678cbb580d9e35a812d268bb51035dd57be5c840e9ab0a3e738db6de09"
+      },
+      {
+        "path": "dist/src/weather-presets.js",
+        "size": 1214,
+        "sha256": "093783819e5c4cea246fb82232a55c097560babed29c8bd66c12253d656b9dc3"
+      },
+      {
+        "path": "dist/tuning.json",
+        "size": 1728,
+        "sha256": "72c5362442f8c893a93627710dc8a3cc8374729b8cbf6ea2df45cb766d5baf12"
+      },
+      {
+        "path": "dist/vendor/ez-tree/branch.js",
+        "size": 787,
+        "sha256": "f71a5e0df6b74ae521942f1722e5a0dd17707add05f12691da96231fdeff8571"
+      },
+      {
+        "path": "dist/vendor/ez-tree/enums.js",
+        "size": 151,
+        "sha256": "d83df789447a421baaecfd18cc8187bf3f80f6cf6e7ba7866812ed527f104092"
+      },
+      {
+        "path": "dist/vendor/ez-tree/index.js",
+        "size": 173,
+        "sha256": "bce13d422dccc63616a7837c15de406235ae96caf8348971a32e04598b02a4a3"
+      },
+      {
+        "path": "dist/vendor/ez-tree/options.js",
+        "size": 5189,
+        "sha256": "542dc3d646eae22b4870ab0ce04a03265113bded825903e9df1fe3cf04124436"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/ash_large.json",
+        "size": 1461,
+        "sha256": "fb630c9f4ae0e344c884f0380d23b35bd93af8924dc0244190b83811634d4f50"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/ash_medium.json",
+        "size": 1414,
+        "sha256": "4fbda008f54a1421c67bdff3022d64aba1d497253bc45dc7f186e3a4f78a9edd"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/ash_small.json",
+        "size": 1416,
+        "sha256": "aa912b8789d348e751aea05c8bf7fd3e91919f7d2429a43150d0b171a57c7a1d"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/aspen_large.json",
+        "size": 1528,
+        "sha256": "91d66898f9a2edb0ac29482c137c295e8fefd2f39b9c328f690c4656e3edbf89"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/aspen_medium.json",
+        "size": 1408,
+        "sha256": "0ccedf06c8777fc7e21f04852f43a52fbe454d71521f2abeaa1cbb5af656ed3f"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/aspen_small.json",
+        "size": 1497,
+        "sha256": "342fd45bf5243c927c56e499d1083e6d527ec875366b6d763a529069e7255473"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/bush_1.json",
+        "size": 1500,
+        "sha256": "c15a079777169edbc8e7d99ddfde1f70b332049a1ca4b2469fb2987dfc195a4b"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/bush_2.json",
+        "size": 1602,
+        "sha256": "fee591915db8ee450151d30330c22ec9a980eaffe93bf58977d1113b749685ec"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/bush_3.json",
+        "size": 1673,
+        "sha256": "7b5fdf2bd190f8f61b792b32ac3a0eade9e09db6471bf422c6936c5855399926"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/index.js",
+        "size": 24823,
+        "sha256": "e3ad7966cc6ff98609debd0046822140844b19cfb6a84e4db1d65f6b9d5f30ee"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/oak_large.json",
+        "size": 1422,
+        "sha256": "da60d7104796e5dc099effe778f22e055a8365549e2eb6cfa6fb0bb6a8190d6b"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/oak_medium.json",
+        "size": 1421,
+        "sha256": "b71da9eeebbe88e7e216af549427f4ec368c4939bf4d4e47d5325f79364fc1ea"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/oak_small.json",
+        "size": 1422,
+        "sha256": "56351f70c8d9432db4c2e80ad9e4f9a08cfb02cb511b5005bb451ddd76a384b4"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/pine_large.json",
+        "size": 1544,
+        "sha256": "80d3e4b0c8d283d995e9af515c54e1622750b620959fbfab06fb4fcf7de29189"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/pine_medium.json",
+        "size": 1408,
+        "sha256": "001254eff844a6d41aff3c409b78effe2a2995c8dd7a21ae301b1e7fb9da0118"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/pine_small.json",
+        "size": 1397,
+        "sha256": "3e389bbcec2fb8965a6a77c014409394aa8e8b81f32b6d3b4d9de86eb02f0c17"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/trellis.json",
+        "size": 1701,
+        "sha256": "015e40156baa5f7778d5fb9f9a5e601001e632d40e6fdd34644db4f47d1abc1c"
+      },
+      {
+        "path": "dist/vendor/ez-tree/rng.js",
+        "size": 586,
+        "sha256": "e4f2bfff79a0a6af3f909f106876e9208be1bb88cc7f7d1541a6858cbaa0c3c8"
+      },
+      {
+        "path": "dist/vendor/ez-tree/tree.js",
+        "size": 40627,
+        "sha256": "a0d579b2412eb1ca5ec999d3204a114be8f304c3df4fdb917df2a9d3391d208b"
+      },
+      {
+        "path": "dist/vendor/ez-tree/trellis.js",
+        "size": 3805,
+        "sha256": "ca623b4fbbee1a11aa14be213f5132928ecbe37f91db7424081fe9d681fc765b"
+      },
+      {
+        "path": "dist/vendor/gsap.min.js",
+        "size": 72927,
+        "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+      },
+      {
+        "path": "docs/copy-inventory.json",
+        "size": 22707,
+        "sha256": "0a2f68323dd59123918cb8ff4f53ee9bc03c5248cf442e23850439782615aae3"
+      },
+      {
+        "path": "docs/twelfth-christmas-night.md",
+        "size": 2302,
+        "sha256": "d2705ce4a963d8944700765034571289c67578dcf27c887b19ed0a6b11637fb9"
+      },
+      {
+        "path": "docs/verification-2026-11-01.md",
+        "size": 1705,
+        "sha256": "5d5072ff8493a5ce8e3d87fdacd7ab23cdcda9881c5b8a2c43b74f1dbb56a09f"
+      }
+    ]
+  },
+  {
+    "version": "current",
+    "source_commit": "e4f73548f1ab1c36a26a9d4e54f0edde24c6bf47",
+    "entry": "versions/current/dist/index.html",
+    "files": [
+      {
+        "path": "README.md",
+        "size": 3640,
+        "sha256": "283c63d00b0eb3579e57164e7a56a4154ad89874f7969127acd56ce31f5db5f9"
+      },
+      {
+        "path": "dist/assets/audio/church-bells.wav",
+        "size": 441044,
+        "sha256": "796a0d8975ce9db3eb4e6d8ce438f6dbbd4ad4a1a8a6a18de4521face6eeb28a"
+      },
+      {
+        "path": "dist/assets/cat_statue.glb",
+        "size": 201668,
+        "sha256": "8e6546d5d4f0ee48aaf39231895e50e9b8f2a9fa6a2fb07b9b43a8ae3c2071a0"
+      },
+      {
+        "path": "dist/assets/ez-tree/bark-Color.jpg",
+        "size": 1261332,
+        "sha256": "9b0a65088b63ce2d5d2e5b7c33275dbc928e6e6674270f07ccc635d9eb742e73"
+      },
+      {
+        "path": "dist/assets/ez-tree/bark-NormalGL.jpg",
+        "size": 2568702,
+        "sha256": "22dbd485bc158140decf00e53a73390af74566990a29ad866ce18a396dc0345f"
+      },
+      {
+        "path": "dist/assets/ez-tree/bark-Roughness.jpg",
+        "size": 656514,
+        "sha256": "57f63ad973b506ed16a84eaa0e1c386aafb7f79100d748a59aad7d27074ef284"
+      },
+      {
+        "path": "dist/assets/ez-tree/pine.png",
+        "size": 303684,
+        "sha256": "88be36a2387554ac4b7c7d1549eae454a37ad896e8e33a7d6ae5956bd169ab08"
+      },
+      {
+        "path": "dist/assets/icons/material/bedtime.svg",
+        "size": 293,
+        "sha256": "45086b5410c26630a0cae800e6d9e9fe531c8cdfba998d231a7acb97e6b770a3"
+      },
+      {
+        "path": "dist/assets/icons/material/cloud.svg",
+        "size": 253,
+        "sha256": "887a2c492c60d833a4f8b5acde60ad76d528d51e8bf542c1ee52ed4f2958b92f"
+      },
+      {
+        "path": "dist/assets/icons/material/coffee.svg",
+        "size": 429,
+        "sha256": "6cd0182d3cc6d3be05205e9d6e852f8814fa8ee6c89acc873ed670b3e31dfac0"
+      },
+      {
+        "path": "dist/assets/icons/material/emoji_food_beverage.svg",
+        "size": 601,
+        "sha256": "ee8b35e224b90f32ce54bf17e09a190a6599107a283efb1d2273f1bfbde71435"
+      },
+      {
+        "path": "dist/assets/icons/material/icecream.svg",
+        "size": 377,
+        "sha256": "6bd6cd615443bdc994af9845922c3b1915c55b87608f4a48ac1c001e52299884"
+      },
+      {
+        "path": "dist/assets/icons/noto/OFL.txt",
+        "size": 4330,
+        "sha256": "500bb1ccf43df7bbb522112f9133a52b16e1c35e809632f5d8609b179152de5b"
+      },
+      {
+        "path": "dist/assets/icons/noto/bagel.svg",
+        "size": 5517,
+        "sha256": "798ec7b7c6273e5f40190a2cd40b26f719c5f7d0014867dcc29e1bbce512262b"
+      },
+      {
+        "path": "dist/assets/icons/noto/baguette.svg",
+        "size": 1519,
+        "sha256": "1a82b40e93489961dcfd79bb689c3d64493d1e2d9f2ec96c049e07c1b2c7f31c"
+      },
+      {
+        "path": "dist/assets/icons/noto/bear.svg",
+        "size": 2053,
+        "sha256": "c7d19640d18669d2f57848eea32d39b9319b9bcbb0e5da8ca23dd0f86e765f72"
+      },
+      {
+        "path": "dist/assets/icons/noto/blossom.svg",
+        "size": 3009,
+        "sha256": "6b5ce4eb29267007b994fcb32ce9a84930a56fedb192a0817547a588cddcd448"
+      },
+      {
+        "path": "dist/assets/icons/noto/bread.svg",
+        "size": 1098,
+        "sha256": "eecc6b96eaaebece5b5df6b2f2e5ddf614102dc598608ba31ffa610423b21ebe"
+      },
+      {
+        "path": "dist/assets/icons/noto/butter.svg",
+        "size": 2526,
+        "sha256": "4cbd52770afe48a398342a04293570180cf87e9bdff39c8b877d608f95fd450c"
+      },
+      {
+        "path": "dist/assets/icons/noto/cat.svg",
+        "size": 3659,
+        "sha256": "2a87eb34edb699c81e197ca2f3af7f855dbbe959a4fdddc22a97e31293f360b3"
+      },
+      {
+        "path": "dist/assets/icons/noto/coffee.svg",
+        "size": 3035,
+        "sha256": "c81b0e1e5484419cb08251ea2d8c480688757ed08e2d20d3b540a6c12834582d"
+      },
+      {
+        "path": "dist/assets/icons/noto/cookie.svg",
+        "size": 3918,
+        "sha256": "7fbb8346e22c07556257e0670e3da41ee87f2f4ac0607ce0247886b9b898d8b7"
+      },
+      {
+        "path": "dist/assets/icons/noto/croissant.svg",
+        "size": 3234,
+        "sha256": "a2fc3b1416c715bd602486e32356d37e1687218e5f1b857b00c8e4e4bf430b6f"
+      },
+      {
+        "path": "dist/assets/icons/noto/dog.svg",
+        "size": 2593,
+        "sha256": "67d52028efacb6c225943a9d5b9a5aa978d112facc13cb28ca91eec35c39fec9"
+      },
+      {
+        "path": "dist/assets/icons/noto/doughnut.svg",
+        "size": 2482,
+        "sha256": "9d26a2e863599e97509c653de4766190a0b833c461b08b762c8db0dc602e130b"
+      },
+      {
+        "path": "dist/assets/icons/noto/flatbread.svg",
+        "size": 1384,
+        "sha256": "ab84f0cf8507c4838409d4f2390ce297476ccb42460761069f6f03f10d5eeb0e"
+      },
+      {
+        "path": "dist/assets/icons/noto/fox.svg",
+        "size": 4211,
+        "sha256": "70e0189ce631f8bf1ace43db66e90db31fee7c6607b47913f30410082e4d7a70"
+      },
+      {
+        "path": "dist/assets/icons/noto/frog.svg",
+        "size": 2938,
+        "sha256": "94009d5829edf0094cd9a8e45d155ef2c37300b2ecf6889375d3f3d407a76305"
+      },
+      {
+        "path": "dist/assets/icons/noto/hamster.svg",
+        "size": 4232,
+        "sha256": "fab57bb848312494946ef4e7707919d3c70091ca7a5e2eec34678939ef138ad1"
+      },
+      {
+        "path": "dist/assets/icons/noto/honey.svg",
+        "size": 2417,
+        "sha256": "011191c8dfbd3ba05eb7706a6f020fce72dca8a88084879ce063c98c00e27109"
+      },
+      {
+        "path": "dist/assets/icons/noto/koala.svg",
+        "size": 3655,
+        "sha256": "52199335d310122a2f56825d517db0f0534e9bbd8af9f33380c07f1bc7b9f5eb"
+      },
+      {
+        "path": "dist/assets/icons/noto/milk.svg",
+        "size": 1755,
+        "sha256": "df8ffb62b019a28fbec07830e2dac19b80a046f17b35c929e20e98bc28437308"
+      },
+      {
+        "path": "dist/assets/icons/noto/mouse.svg",
+        "size": 3378,
+        "sha256": "9b50e1c9169f993db15ad7b661e19107beb56b3dfea4a495f822367aeecea833"
+      },
+      {
+        "path": "dist/assets/icons/noto/pancakes.svg",
+        "size": 4392,
+        "sha256": "8244e14a1c518f3b429f05c0594ad5c406b3f03085caef61de7e9f7a6b1ae67a"
+      },
+      {
+        "path": "dist/assets/icons/noto/panda.svg",
+        "size": 2996,
+        "sha256": "6af99b0ce83859cc8b304a15e819ce085d3aa49607c0a8a5a640725db86a3a53"
+      },
+      {
+        "path": "dist/assets/icons/noto/paws.svg",
+        "size": 2278,
+        "sha256": "6cd3e069cd0aed5967c0bfc6740be1545206ba38254b8b4e6a0cca78eb71c1ef"
+      },
+      {
+        "path": "dist/assets/icons/noto/penguin.svg",
+        "size": 2910,
+        "sha256": "0b580e8788068e6084d39b2b2a5222e7d24b030badcd683929d4766b96e3a0b5"
+      },
+      {
+        "path": "dist/assets/icons/noto/pie.svg",
+        "size": 2757,
+        "sha256": "95b61ebf9d7b6f9b63e942837d380a20dbfd2557b46caad2854534fc3b34702d"
+      },
+      {
+        "path": "dist/assets/icons/noto/pig.svg",
+        "size": 3379,
+        "sha256": "2bea56fc2327c72b251dfe642a6fa99e861a7f76bbad7634b8d8cb48a7d06420"
+      },
+      {
+        "path": "dist/assets/icons/noto/pretzel.svg",
+        "size": 5667,
+        "sha256": "1b731c77ef0057c469938c4318af6b3bbc6771a11b6e5136e187c5c60f8bc08a"
+      },
+      {
+        "path": "dist/assets/icons/noto/rabbit.svg",
+        "size": 4199,
+        "sha256": "191a16ac1d2251d18b0d0035696db812057748d1c947254273037f976df7d0a5"
+      },
+      {
+        "path": "dist/assets/icons/noto/ramen.svg",
+        "size": 3413,
+        "sha256": "41bffdc0f3adc562b8a7f639446e4f29d463bfed08cac5362ca43d07e363b515"
+      },
+      {
+        "path": "dist/assets/icons/noto/sandwich.svg",
+        "size": 3503,
+        "sha256": "59601186ae66d6fb72aa9f1487336eda8ce56117c52032abbf9f8deabc2bde0c"
+      },
+      {
+        "path": "dist/assets/icons/noto/sunset.svg",
+        "size": 2258,
+        "sha256": "4e1a882be0c9908be56ddd150901998c305fa8afa1050fcd744d59adcbaa7c1e"
+      },
+      {
+        "path": "dist/assets/icons/noto/tiger.svg",
+        "size": 6308,
+        "sha256": "d7ae28ed32599f8ae52c0f546b780b474d05cdb3359fc7da7e66a34bee16a4ff"
+      },
+      {
+        "path": "dist/assets/icons/noto/waffle.svg",
+        "size": 1749,
+        "sha256": "ba92245a32e0efe4aee8aeee2464dac0a604323404f42675e50b4e19416aa775"
+      },
+      {
+        "path": "dist/assets/icons/noto/wheat.svg",
+        "size": 4440,
+        "sha256": "310c8ed4705a68e2b8b45d893d3a613ac6164c2a6c0b60ad5fddf4e5a417febf"
+      },
+      {
+        "path": "dist/blender/build_cat_statue.py",
+        "size": 4999,
+        "sha256": "0b4632363e61b29c48d2295a6f2026e06f356f7beaec8647f711a2357c8015b8"
+      },
+      {
+        "path": "dist/blender/prepare_model.py",
+        "size": 4047,
+        "sha256": "c888d8d6fbc8f2413852ab3dc5bb1990884c54a27337782a725f641d24650409"
+      },
+      {
+        "path": "dist/city.css",
+        "size": 11903,
+        "sha256": "6b7697d154506489fcd2eea4929ea4d823a57ac313b2243431644134961bcb41"
+      },
+      {
+        "path": "dist/content/labels.json",
+        "size": 21095,
+        "sha256": "371cdd058af3f4c192103da9bdf4f0136cddd9cab733cd2b1ed9b604d2968ccd"
+      },
+      {
+        "path": "dist/fonts/Christmas-Round.ttf",
+        "size": 1514968,
+        "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d"
+      },
+      {
+        "path": "dist/fonts/OFL.txt",
+        "size": 4398,
+        "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d"
+      },
+      {
+        "path": "dist/index.html",
+        "size": 8071,
+        "sha256": "d4a9f015ba6069c2fa76b497741689ef02f0b377640e7afdd08e6d543d5c171d"
+      },
+      {
+        "path": "dist/licenses/bell-synthesis.txt",
+        "size": 1073,
+        "sha256": "29f39f7f41c687dbf17dc690a52d9bb60ac930b9a623a58204d5a4165cfa136f"
+      },
+      {
+        "path": "dist/licenses/between-us.txt",
+        "size": 1263,
+        "sha256": "b98d627ab26c453a2abcf34203f76bbbd96da8b1804ef61096f3e3202125d089"
+      },
+      {
+        "path": "dist/licenses/church-bells-source.txt",
+        "size": 284523,
+        "sha256": "f6aec3a3283a2efdcbb1feff334adad7ab17c097bdec0cbb4eebdb9e16886074"
+      },
+      {
+        "path": "dist/licenses/city-car.txt",
+        "size": 619,
+        "sha256": "6c29b11df9346e0dc4357b19142c9d110ced35ebeddba8fe8f48029017d401a6"
+      },
+      {
+        "path": "dist/licenses/ez-tree-textures.txt",
+        "size": 242,
+        "sha256": "fdcedec3a94e224605880c592bc63b0f5adf785b39c367f91343b1ec05d7b0d0"
+      },
+      {
+        "path": "dist/licenses/ez-tree.txt",
+        "size": 1073,
+        "sha256": "20e4afadfb10c67952b3d73cd2982d21d165ab4ae82b0dd9e4d6f2166ee349b6"
+      },
+      {
+        "path": "dist/licenses/fireworks.txt",
+        "size": 1066,
+        "sha256": "4543a50002d54e1d73125d4cfea3bd30eff93b0bb5050431d9d0bc90d4efa5f8"
+      },
+      {
+        "path": "dist/licenses/night-rain-city.txt",
+        "size": 1065,
+        "sha256": "3f4d15ea81e1a6865dbeb2376c4620a73fe346aa5299239016b3bfe533b5ae0a"
+      },
+      {
+        "path": "dist/opening/crack1.png",
+        "size": 873020,
+        "sha256": "c91e9d4ae60d1ad8f5677adc6540fe51a3c0bd8639c3237aa0f7ac80434b596c"
+      },
+      {
+        "path": "dist/opening/crack2.png",
+        "size": 799203,
+        "sha256": "d8c098cb4703c75134c2dda992cc1d12f252662ab5e9f6bb9aa3b59b717371d4"
+      },
+      {
+        "path": "dist/opening/flowers.svg",
+        "size": 7271,
+        "sha256": "346a804e7bf5211c631e1cca93e41e13f19b7aad4ea075a20b4a5a0c6c87ca87"
+      },
+      {
+        "path": "dist/opening/flowers_fill.svg",
+        "size": 7271,
+        "sha256": "346a804e7bf5211c631e1cca93e41e13f19b7aad4ea075a20b4a5a0c6c87ca87"
+      },
+      {
+        "path": "dist/opening/index.html",
+        "size": 6172,
+        "sha256": "d419c69b84cf5abdfd5dee2df591c7bc6e6c227a639a13797f91c7e452979031"
+      },
+      {
+        "path": "dist/opening/opening.js",
+        "size": 26466,
+        "sha256": "ff6e874dd3564ee9c32202cf5e978d3a37b4ea14c37eb4d3b1216d32e7af4d84"
+      },
+      {
+        "path": "dist/opening/snow.js",
+        "size": 1392,
+        "sha256": "e8182925269e020b29030e098a032f42627d85682d3e783782328530d8c1b099"
+      },
+      {
+        "path": "dist/serve.py",
+        "size": 2282,
+        "sha256": "03d5ed4ec2992ea11499c9f0eaa1bf4b618c483f830b59298e3c95c184030697"
+      },
+      {
+        "path": "dist/src/cinematics.js",
+        "size": 2497,
+        "sha256": "6d9597f9affc4b1045b458613c9cdeadab527992ff56410db8f7b1929f3992fc"
+      },
+      {
+        "path": "dist/src/content.js",
+        "size": 3047,
+        "sha256": "9aa330585ba8439909a87a164830a4910539b49c6cc232e065f87b9751fe4306"
+      },
+      {
+        "path": "dist/src/copy-editor.js",
+        "size": 3592,
+        "sha256": "a678e7236a75b9dd06be0505ac5fc46efd11967e1b1faf763fb968b271e3ad82"
+      },
+      {
+        "path": "dist/src/core/audio.js",
+        "size": 11211,
+        "sha256": "9a9a1361b25a70134af5506b9bffce1a7e4f174221b01bcb8c2fac40e02d2863"
+      },
+      {
+        "path": "dist/src/core/city-audio.js",
+        "size": 4448,
+        "sha256": "24f69801e5aa1f0a87e773f919e9e677cf65aa19902617719694d9c7ec3ec91c"
+      },
+      {
+        "path": "dist/src/core/constants.js",
+        "size": 605,
+        "sha256": "c4e3ff071952e468d94e28949f67c62b36cd270a31ae3d245255292de53b4cd3"
+      },
+      {
+        "path": "dist/src/core/festival-audio.js",
+        "size": 2108,
+        "sha256": "ad161a5101e7e7d3e0617b6a9bd94e057cfd62ee69e0d267b0daa7276495cb76"
+      },
+      {
+        "path": "dist/src/core/fireworks.js",
+        "size": 27890,
+        "sha256": "ca812016d683cb9c525ee58ff6bde7840771643d1e93aefc36c57da3225eb71c"
+      },
+      {
+        "path": "dist/src/core/goods.js",
+        "size": 13730,
+        "sha256": "ebd18820d551235d8c9c21d2edf776f1098a2d937d8a34e202114b6105d9c5c3"
+      },
+      {
+        "path": "dist/src/core/music.js",
+        "size": 30014,
+        "sha256": "59e363292ca4df52015172a05e4a8a19f8b26da657ee7aaa4a7ab47ee6fc8582"
+      },
+      {
+        "path": "dist/src/core/people.js",
+        "size": 4019,
+        "sha256": "bdd71189e2fd53a808e3f91641ddd95b4ee33c536a8ebccc41a96edad5a176ee"
+      },
+      {
+        "path": "dist/src/core/post.js",
+        "size": 3242,
+        "sha256": "3f5fe6b2a82d643ff497d4b70eda61f223322f68f30912b99d8bbaf54e02cb98"
+      },
+      {
+        "path": "dist/src/core/rain.js",
+        "size": 11335,
+        "sha256": "f045059b1c4a6a50018a163c4fbc8f951822424db2819ef72218b09a96a284ba"
+      },
+      {
+        "path": "dist/src/core/rand.js",
+        "size": 699,
+        "sha256": "032f8f12b8ca4b2c091d170b462c9550e389f0eb9cd908ad3b49777bf2fcc431"
+      },
+      {
+        "path": "dist/src/core/screens.js",
+        "size": 25578,
+        "sha256": "8399502be1131b3702cc5d416485e04dbdb1a0006f279e04cfea5caadf4d12d7"
+      },
+      {
+        "path": "dist/src/core/sky.js",
+        "size": 4912,
+        "sha256": "e0bc887398808d6c7a67e60e9afa42b1c171806ff88358fa27573747f58ffaf2"
+      },
+      {
+        "path": "dist/src/core/snow.js",
+        "size": 11518,
+        "sha256": "e865bccb4ce7b309a4b59ef4c63086e1a05e314c6ea400e78c9f13c69a37b8e8"
+      },
+      {
+        "path": "dist/src/core/toon.js",
+        "size": 40372,
+        "sha256": "20078cbb2eab19d2389bea24f70418097d58b123b42f7e3717fce37e47551d7b"
+      },
+      {
+        "path": "dist/src/core/traffic.js",
+        "size": 3679,
+        "sha256": "948d53023b4c9b7c75b23c50a9e7ea5bc9fd3e6cfe87b7fe5686a3429a5fe13a"
+      },
+      {
+        "path": "dist/src/core/trees.js",
+        "size": 7940,
+        "sha256": "9c07643926b433db381de346d71953d68942891b3e153e21c933414ada9604f7"
+      },
+      {
+        "path": "dist/src/core/tuning.js",
+        "size": 7575,
+        "sha256": "8fbe19b95fc1a62aeef2e2f728a465d3f8295559b9fa3cc7de7832dd45371795"
+      },
+      {
+        "path": "dist/src/core/umbrella.js",
+        "size": 677,
+        "sha256": "8ff89f3c13227dd6299aaa2d6532062c921ab3d614a4d02d406c75c6d75dc7c9"
+      },
+      {
+        "path": "dist/src/core/vfx.js",
+        "size": 5381,
+        "sha256": "181884c45613778c63e3f714e0b6f42a21e3d440e8c5fc8b326aadd90252f95b"
+      },
+      {
+        "path": "dist/src/core/walker.js",
+        "size": 14695,
+        "sha256": "701d8bc5fa211d7fa5d57cb260dd95d3582c084e647998be160fd3da125e719e"
+      },
+      {
+        "path": "dist/src/core/weather.js",
+        "size": 1049,
+        "sha256": "106510dd0f671daf4231f8ba3f534936a23493974bb15f5f7b7d2f3c42443d47"
+      },
+      {
+        "path": "dist/src/detailed-assets.js",
+        "size": 1156,
+        "sha256": "100db672fca6b43a527f4b89cf426a9f6aacba189726ffaeb8a3f7c6c3fdd7ca"
+      },
+      {
+        "path": "dist/src/district.js",
+        "size": 3073,
+        "sha256": "ae3bc64e2bb5f364ba6cc9cfb838070027b88be6517a360dada103e35450b091"
+      },
+      {
+        "path": "dist/src/experience.js",
+        "size": 10756,
+        "sha256": "2da0fa7430b3c1d8a5667be47f951ddc60e3e5411c8a1e0483484b6eaeb47111"
+      },
+      {
+        "path": "dist/src/kit/atlas.js",
+        "size": 6789,
+        "sha256": "c74d3c49cd69ff2be36daacdd17ce2be95068028e48e538842f1bec116f72d49"
+      },
+      {
+        "path": "dist/src/kit/buildings.js",
+        "size": 34718,
+        "sha256": "47f334f1f0c3c16e65fec01f9f8c86785c01e58e52728bf71b63b87b7d0e4b4a"
+      },
+      {
+        "path": "dist/src/kit/cases.js",
+        "size": 136981,
+        "sha256": "4147b1514e33f1541d19aafad92e58c79e799e5b71a0f0c3075bcbbeae4adc12"
+      },
+      {
+        "path": "dist/src/kit/catalog.js",
+        "size": 3619,
+        "sha256": "5c6d83659b235328fd4f1d887b71656ec815957949bb340814b9b6ecbcc513b0"
+      },
+      {
+        "path": "dist/src/kit/christmas.js",
+        "size": 4790,
+        "sha256": "773d5921e2a156e3730d5400461be913103d59bccea33b9ff8c709934031e0a9"
+      },
+      {
+        "path": "dist/src/kit/city.js",
+        "size": 9247,
+        "sha256": "5c97c96ee19581711d1095aea7764393658377f6591a67284bfbfb35cb5c09b5"
+      },
+      {
+        "path": "dist/src/kit/fountain.js",
+        "size": 1217,
+        "sha256": "6ea5f0f31e9a63a44f9b573bd04b08bf35073f875072893f17dad04ac82aa212"
+      },
+      {
+        "path": "dist/src/kit/geometry.js",
+        "size": 7078,
+        "sha256": "5f53afe3e0b384b6a630a7aa703f2d4044d5066635adc33f4fdaf0293d138354"
+      },
+      {
+        "path": "dist/src/kit/holograms.js",
+        "size": 11562,
+        "sha256": "cf9c750577b5ea57275a600f9a380be42c9ef935de631115a0c3246b39c5d4b8"
+      },
+      {
+        "path": "dist/src/kit/holomodel.js",
+        "size": 6518,
+        "sha256": "b868836da18fce060b9e368cb8774f9169b93055f0afe5c256017cb28cc9e8ff"
+      },
+      {
+        "path": "dist/src/kit/icons.js",
+        "size": 3523,
+        "sha256": "7df9dbacd0e695b7f4f799f6eecc69d1df512a1fc89f8fdd447b790bcf914ed3"
+      },
+      {
+        "path": "dist/src/kit/infoBoard.js",
+        "size": 6937,
+        "sha256": "e9cd3c4d948f0be7348d7b00391b8a8c8cb307cfa71fd7ce5e8ac469f1c78208"
+      },
+      {
+        "path": "dist/src/kit/interiors.js",
+        "size": 37824,
+        "sha256": "af0fb7038c65dc874235a6a3086cb7916a3da6b7f9a4f9edaf438ba6b6ff813a"
+      },
+      {
+        "path": "dist/src/kit/layouts.js",
+        "size": 5423,
+        "sha256": "3d454eccab3912fe5f9cda28723951ca31f512711e70209812da822bc241a0a3"
+      },
+      {
+        "path": "dist/src/kit/scenes.js",
+        "size": 21531,
+        "sha256": "809c6f7b2afe2e96fcb819c9a6e1621e2a8c6dbcfe0418da25019f702bd06178"
+      },
+      {
+        "path": "dist/src/kit/sculptures.js",
+        "size": 8944,
+        "sha256": "0c5919dcf0535624e2a2b624845edabf80e3d67b9432446a3ca1d7c328cb71a1"
+      },
+      {
+        "path": "dist/src/kit/shops.js",
+        "size": 26731,
+        "sha256": "8bbf1bf707a8960c37240fddb9b795811ea3dd3b6832e2f719d220c3f5aa9296"
+      },
+      {
+        "path": "dist/src/kit/signs.js",
+        "size": 73289,
+        "sha256": "800aa74e14a73f354766505ada714c6fb4475e3202bd9a653a18edebbc1c588c"
+      },
+      {
+        "path": "dist/src/kit/street.js",
+        "size": 12713,
+        "sha256": "0ec25ba97e671ed38dc1523f94d2996b6d103079d48b5347d26720e54338126e"
+      },
+      {
+        "path": "dist/src/kit/streetlife.js",
+        "size": 9280,
+        "sha256": "776cecb983d73e921843650d7385953c767e1abd4b5f578546b9e422fb254a58"
+      },
+      {
+        "path": "dist/src/kit/terrace.js",
+        "size": 8866,
+        "sha256": "9ef669f62c41f58ea20c7583912df67c86a1855dc1ad7b03a9f2de186f7d5ba0"
+      },
+      {
+        "path": "dist/src/kit/underground.js",
+        "size": 25290,
+        "sha256": "05e1d0c11d019e260e8f57ee562cd3cd245a1e3ff2c09c4f92a2d78472dccd46"
+      },
+      {
+        "path": "dist/src/kit/world.js",
+        "size": 23098,
+        "sha256": "584d09ae0ae8dfab1c9c3aa3ff4e294ac2b67722c6500ddb12a9eaf7e704ef51"
+      },
+      {
+        "path": "dist/src/main.js",
+        "size": 27075,
+        "sha256": "b5f90bd510e699749871e10552660281e7a1cb1bfe73d8ec55d870dd8ec59676"
+      },
+      {
+        "path": "dist/src/song-ui.js",
+        "size": 2405,
+        "sha256": "bdd73b1cc7f656058e22d6d3764652049390a663a0cf3ad881b852642c1b30f2"
+      },
+      {
+        "path": "dist/src/weather-presets.js",
+        "size": 1211,
+        "sha256": "5534109a6061eebbb81dc7e630530d696fb4b3685227dc3d19781d92e382f458"
+      },
+      {
+        "path": "dist/tuning.json",
+        "size": 1728,
+        "sha256": "72c5362442f8c893a93627710dc8a3cc8374729b8cbf6ea2df45cb766d5baf12"
+      },
+      {
+        "path": "dist/vendor/ez-tree/branch.js",
+        "size": 787,
+        "sha256": "f71a5e0df6b74ae521942f1722e5a0dd17707add05f12691da96231fdeff8571"
+      },
+      {
+        "path": "dist/vendor/ez-tree/enums.js",
+        "size": 151,
+        "sha256": "d83df789447a421baaecfd18cc8187bf3f80f6cf6e7ba7866812ed527f104092"
+      },
+      {
+        "path": "dist/vendor/ez-tree/index.js",
+        "size": 173,
+        "sha256": "bce13d422dccc63616a7837c15de406235ae96caf8348971a32e04598b02a4a3"
+      },
+      {
+        "path": "dist/vendor/ez-tree/options.js",
+        "size": 5189,
+        "sha256": "542dc3d646eae22b4870ab0ce04a03265113bded825903e9df1fe3cf04124436"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/ash_large.json",
+        "size": 1461,
+        "sha256": "fb630c9f4ae0e344c884f0380d23b35bd93af8924dc0244190b83811634d4f50"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/ash_medium.json",
+        "size": 1414,
+        "sha256": "4fbda008f54a1421c67bdff3022d64aba1d497253bc45dc7f186e3a4f78a9edd"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/ash_small.json",
+        "size": 1416,
+        "sha256": "aa912b8789d348e751aea05c8bf7fd3e91919f7d2429a43150d0b171a57c7a1d"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/aspen_large.json",
+        "size": 1528,
+        "sha256": "91d66898f9a2edb0ac29482c137c295e8fefd2f39b9c328f690c4656e3edbf89"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/aspen_medium.json",
+        "size": 1408,
+        "sha256": "0ccedf06c8777fc7e21f04852f43a52fbe454d71521f2abeaa1cbb5af656ed3f"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/aspen_small.json",
+        "size": 1497,
+        "sha256": "342fd45bf5243c927c56e499d1083e6d527ec875366b6d763a529069e7255473"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/bush_1.json",
+        "size": 1500,
+        "sha256": "c15a079777169edbc8e7d99ddfde1f70b332049a1ca4b2469fb2987dfc195a4b"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/bush_2.json",
+        "size": 1602,
+        "sha256": "fee591915db8ee450151d30330c22ec9a980eaffe93bf58977d1113b749685ec"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/bush_3.json",
+        "size": 1673,
+        "sha256": "7b5fdf2bd190f8f61b792b32ac3a0eade9e09db6471bf422c6936c5855399926"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/index.js",
+        "size": 24823,
+        "sha256": "e3ad7966cc6ff98609debd0046822140844b19cfb6a84e4db1d65f6b9d5f30ee"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/oak_large.json",
+        "size": 1422,
+        "sha256": "da60d7104796e5dc099effe778f22e055a8365549e2eb6cfa6fb0bb6a8190d6b"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/oak_medium.json",
+        "size": 1421,
+        "sha256": "b71da9eeebbe88e7e216af549427f4ec368c4939bf4d4e47d5325f79364fc1ea"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/oak_small.json",
+        "size": 1422,
+        "sha256": "56351f70c8d9432db4c2e80ad9e4f9a08cfb02cb511b5005bb451ddd76a384b4"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/pine_large.json",
+        "size": 1544,
+        "sha256": "80d3e4b0c8d283d995e9af515c54e1622750b620959fbfab06fb4fcf7de29189"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/pine_medium.json",
+        "size": 1408,
+        "sha256": "001254eff844a6d41aff3c409b78effe2a2995c8dd7a21ae301b1e7fb9da0118"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/pine_small.json",
+        "size": 1397,
+        "sha256": "3e389bbcec2fb8965a6a77c014409394aa8e8b81f32b6d3b4d9de86eb02f0c17"
+      },
+      {
+        "path": "dist/vendor/ez-tree/presets/trellis.json",
+        "size": 1701,
+        "sha256": "015e40156baa5f7778d5fb9f9a5e601001e632d40e6fdd34644db4f47d1abc1c"
+      },
+      {
+        "path": "dist/vendor/ez-tree/rng.js",
+        "size": 586,
+        "sha256": "e4f2bfff79a0a6af3f909f106876e9208be1bb88cc7f7d1541a6858cbaa0c3c8"
+      },
+      {
+        "path": "dist/vendor/ez-tree/tree.js",
+        "size": 40627,
+        "sha256": "a0d579b2412eb1ca5ec999d3204a114be8f304c3df4fdb917df2a9d3391d208b"
+      },
+      {
+        "path": "dist/vendor/ez-tree/trellis.js",
+        "size": 3805,
+        "sha256": "ca623b4fbbee1a11aa14be213f5132928ecbe37f91db7424081fe9d681fc765b"
+      },
+      {
+        "path": "dist/vendor/gsap.min.js",
+        "size": 72927,
+        "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+      },
+      {
+        "path": "dist/vendor/three/build/three.module.js",
+        "size": 1304820,
+        "sha256": "0a3368c165eea773490aec7b77c22de70e3eac288503409256fdbf4d12578416"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/environments/RoomEnvironment.js",
+        "size": 3606,
+        "sha256": "85869bdd22f7cf0b22e68dcefe6cb710480af0f5c901a76f7a7764fd07fc8014"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/geometries/RoundedBoxGeometry.js",
+        "size": 4625,
+        "sha256": "d20aeaf7077c459a8d952d215738d7b44fba028440bb862d84b622a34f0c80bb"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/loaders/GLTFLoader.js",
+        "size": 110029,
+        "sha256": "6f1719dcc6a179d30273dfb0de07a8c898a7981f7b08e600b446387f5967371f"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/loaders/SVGLoader.js",
+        "size": 69698,
+        "sha256": "7839736ad83df8c25d339f2c1e3b7f49c595e4d444b54905f26bece24702f51f"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/postprocessing/EffectComposer.js",
+        "size": 4651,
+        "sha256": "d234e578618fa816955ebdc059c049c577e203e650e33cf22bde3f232c29e669"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/postprocessing/MaskPass.js",
+        "size": 2231,
+        "sha256": "328cf7db0da5d9be83ffe39d54b01d5ac1fddf108cc98182ddbb056f5c8b537f"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/postprocessing/Pass.js",
+        "size": 1706,
+        "sha256": "b3c6128340eaa37e40a6a2f1b738e894c855239417d50959759b34a2b5e89f92"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/postprocessing/RenderPass.js",
+        "size": 1941,
+        "sha256": "6c9b8a539ea16e898f65e4760f14937ef9ea94043bd9842c141e0301f41903e8"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/postprocessing/ShaderPass.js",
+        "size": 1576,
+        "sha256": "3b28a1ee27e0eb96c0eab137a1f442ccf127a926904eced2d51e125ec44af781"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/postprocessing/UnrealBloomPass.js",
+        "size": 12410,
+        "sha256": "3bd23a1097af75c7002d0ffc21a6c14f45c4dd701dbaf737030dfc61fb7c64d9"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/shaders/CopyShader.js",
+        "size": 571,
+        "sha256": "4e3346db194db56a596cd074e9bdb39fb5eb52040c333e0d29dc4eb1324d3b1d"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/shaders/LuminosityHighPassShader.js",
+        "size": 1147,
+        "sha256": "9f4866f9abb2d96fd83eec46ba4bf2165b22155a7a37ff425c0f60eba18007cb"
+      },
+      {
+        "path": "dist/vendor/three/examples/jsm/utils/BufferGeometryUtils.js",
+        "size": 31768,
+        "sha256": "c25b7930e570e9ec56173cd3b866ec8d2e10016630db3937efb439daf1cedbf6"
+      },
+      {
+        "path": "docs/copy-inventory.json",
+        "size": 22707,
+        "sha256": "0a2f68323dd59123918cb8ff4f53ee9bc03c5248cf442e23850439782615aae3"
+      },
+      {
+        "path": "docs/twelfth-christmas-night.md",
+        "size": 2302,
+        "sha256": "d2705ce4a963d8944700765034571289c67578dcf27c887b19ed0a6b11637fb9"
+      },
+      {
+        "path": "docs/verification-2026-11-01.md",
+        "size": 1705,
+        "sha256": "5d5072ff8493a5ce8e3d87fdacd7ab23cdcda9881c5b8a2c43b74f1dbb56a09f"
+      },
+      {
+        "path": "scripts/build-standalone.py",
+        "size": 4681,
+        "sha256": "f83cecbece161ba472955a7330bb9a037e77c829ab0e47726f6a28ad7c9fce6e"
+      }
+    ]
+  }
+]
