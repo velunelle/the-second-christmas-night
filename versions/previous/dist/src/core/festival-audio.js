@@ -1,0 +1,10 @@
+// Modal envelope / paired oscillators / convolution tail adapted from
+// Olivier Giulieri, tibetan-singing-bowls (MIT). Ratios retuned to a bronze bell.
+export class FestivalAudio{
+ constructor(sound){this.sound=sound;this.nodes=new Set();this.pealData=fetch('assets/audio/church-bells.wav').then(r=>{if(!r.ok)throw Error();return r.arrayBuffer();}).catch(()=>null);}
+ init(){if(this.bus||!this.sound.ctx)return;const c=this.sound.ctx;this.bus=c.createGain();this.bus.gain.value=.8;this.bus.connect(this.sound.master);const conv=c.createConvolver(),b=c.createBuffer(2,c.sampleRate*3.6,c.sampleRate);for(let ch=0;ch<2;ch++){const d=b.getChannelData(ch);for(let i=0;i<d.length;i++)d[i]=(Math.random()*2-1)*Math.pow(1-i/d.length,2.6)*.23;}conv.buffer=b;const wet=c.createGain();wet.gain.value=.3;this.bus.connect(conv).connect(wet).connect(this.sound.master);this.pealData.then(a=>a&&c.decodeAudioData(a.slice(0))).then(b=>{this.peal=b;}).catch(()=>{});}
+ bell(index=0){this.init();if(!this.bus)return;const c=this.sound.ctx,t=c.currentTime;const partials=[[.5,.45,3.4],[1,1,2.7],[1.183,.38,2.1],[1.506,.32,1.8],[2,.19,1.2],[2.514,.11,.9],[3.05,.07,.6]];
+ for(const [ratio,amp,tau] of partials){const g=c.createGain();g.gain.setValueAtTime(0,t);g.gain.linearRampToValueAtTime(amp*.13,t+.004);g.gain.setTargetAtTime(0,t+.004,tau);g.connect(this.bus);let left=2;for(const beat of [0,.55+ratio*.2]){const o=c.createOscillator();o.frequency.value=(index===11?130.8128:146.8324)*ratio+beat;o.connect(g);o.start(t);o.stop(t+tau*7+.2);this.nodes.add(o);o.onended=()=>{this.nodes.delete(o);o.disconnect();if(--left===0)g.disconnect();};}}}
+ celebrate(){this.init();if(!this.peal)return;const c=this.sound.ctx,o=c.createBufferSource(),g=c.createGain();o.buffer=this.peal;g.gain.setValueAtTime(0,c.currentTime);g.gain.linearRampToValueAtTime(.24,c.currentTime+.2);g.gain.setTargetAtTime(0,c.currentTime+3.5,.5);o.connect(g).connect(this.bus);o.start();this.nodes.add(o);o.onended=()=>{this.nodes.delete(o);o.disconnect();g.disconnect();};}
+ cancel(){for(const n of this.nodes)try{n.stop();}catch{}this.nodes.clear();}
+}

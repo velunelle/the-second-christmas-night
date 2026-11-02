@@ -1,0 +1,100 @@
+{
+  "hue": {
+    "shift": 0,
+    "saturation": 0.9
+  },
+  "tones": {
+    "edge1": 0.17,
+    "edge2": 0.45,
+    "soft": 0.012,
+    "streetLift": 0.51
+  },
+  "palette": {
+    "deep": "#132237",
+    "mid": "#477b91",
+    "lit": "#f0eadc",
+    "litTint": "#c9e7ec",
+    "shade2": "#27445b"
+  },
+  "moon": {
+    "elevation": 24.8,
+    "azimuth": 199.2,
+    "strength": 0.75
+  },
+  "air": {
+    "fog": "#0b1729",
+    "haze": "#51738b",
+    "density": 0.0015,
+    "zenith": "#12213b"
+  },
+  "rain": {
+    "brightness": 1.0,
+    "litAlpha": 0.85,
+    "midAlpha": 0.58,
+    "darkAlpha": 0.27,
+    "midAt": 0,
+    "litAt": 0.17,
+    "length": 1,
+    "speed": 0.68,
+    "wind": 0.23,
+    "reach": 95,
+    "lit": "#e5eaff",
+    "mid": "#b5c4e7",
+    "dark": "#7c8ba8"
+  },
+  "glass": {
+    "reflect": 0.62,
+    "rooms": 2.25
+  },
+  "indoor": {
+    "light": 0.44
+  },
+  "fonts": {
+    "signs": "站酷快乐体",
+    "brands": "马善政毛笔"
+  },
+  "street": {
+    "wet": 1,
+    "reflLo": 0.14,
+    "reflHi": 0.3
+  },
+  "screens": {
+    "dark": "#061a25",
+    "mid": "#1fc3d8",
+    "hot": 2.1,
+    "style": "led",
+    "own": true,
+    "bright": 0.88
+  },
+  "caseColors": {},
+  "ads": {
+    "glyph-rain": 1,
+    "pulse-rings": 1,
+    "equalizer": 1,
+    "sign-word": 1,
+    "neon-horizon": 1,
+    "giant-glyph": 1,
+    "oscilloscope": 1,
+    "ticker": 1,
+    "ribbons": 1,
+    "liquid-blobs": 1,
+    "hex-tunnel": 0.2,
+    "interference": 1,
+    "vortex": 1,
+    "cells": 1,
+    "rings-2": 1
+  },
+  "holo": {
+    "whale": "sketchfab"
+  },
+  "post": {
+    "bloom": 0.4,
+    "bloomRadius": 0.45,
+    "bloomThreshold": 1,
+    "bloomFloor": 0.1,
+    "outline": 0.75,
+    "outlineColor": "#030c14",
+    "vignette": 0.3,
+    "grain": 0.018
+  }
+}

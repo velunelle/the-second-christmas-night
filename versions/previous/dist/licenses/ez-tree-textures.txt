@@ -1,0 +1,5 @@
+Bark003 surface textures from ambientCG, CC0 1.0 Universal.
+https://ambientcg.com/view?id=Bark003
+https://docs.ambientcg.com/license/
+Pine needle texture is bundled with Daniel Greenheck's EZ-Tree (MIT).
+https://github.com/dgreenheck/ez-tree

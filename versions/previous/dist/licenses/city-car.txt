@@ -1,0 +1,8 @@
+Car Concept
+Model and textures: Eric Chadwick, Darmstadt Graphics Group GmbH, 2024.
+Source: https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept
+License: Creative Commons Attribution 4.0 International.
+License text: https://creativecommons.org/licenses/by/4.0/legalcode
+Changes in this project: geometry is reused at city scale with instanced rendering; physical materials are converted to standard materials while retaining texture and normal maps.
+Original public-domain base mesh: Unity Fan.
+Khronos and 3D Commerce logos remain those of their respective owners; no endorsement is implied.
